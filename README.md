@@ -1,4 +1,4 @@
-Cosmos IBC（Inter-Blockchain Communication）を分析したソースコードを公開する際のREADMEには、以下の情報を含めるのが望ましいです。
+Cosmos IBC（Inter-Blockchain Communication）を分析したソースコード
 
 READMEに含めるべき情報
 プロジェクトの概要（Overview）
